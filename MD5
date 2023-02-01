@@ -1,0 +1,14 @@
+7dec225f598e0ee9286103bf44dcaa2f *DESCRIPTION
+a33831710d793a28dffff3b474ba6c5f *NAMESPACE
+4d2260272a008387025de2c5fe7f7101 *R/walley1996.R
+07e47dc89395687469020ba42c1aca84 *README.md
+caa390f83f0b5bb0826ec3141090a1a4 *build/vignette.rds
+8b5deb8200a0ae00698497d6610b6d94 *inst/doc/example.R
+926f11f6eb87624b2b248d6126800402 *inst/doc/example.Rmd
+f000040ba166d6a8093ae6ea1612f1a0 *inst/doc/example.html
+53324e2b75d426dd59890aa96a4115fc *man/betabinom.Rd
+8183a9f315c6a387c0e4ebda8eb16a50 *man/betadif.Rd
+09fb0e876c5ff41baa9fff5c10846a34 *man/ibm.Rd
+6275b4c7b6cf0a31df21427ead3b55de *man/idm.Rd
+926f11f6eb87624b2b248d6126800402 *vignettes/example.Rmd
+d23eaba3432cd80c924cd8a7a8c244e9 *vignettes/references.bib
